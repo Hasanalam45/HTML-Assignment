@@ -1,0 +1,21 @@
+.bg {
+  margin: 20px;
+}
+body {
+  background-color: black;
+}
+.cl {
+  color: white;
+}
+.o {
+  background-color: lightblue;
+}
+.k {
+  background-color: red;
+}
+.p {
+  background-color: purple;
+}
+.r {
+  background-color: red;
+}
